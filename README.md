@@ -1,9 +1,7 @@
 
 
 
-# Jewellery
-
-A Jewellery ecommerce website.
+# 
 
 
 
